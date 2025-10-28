@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title=sport,pimpletv.ru
+http://127.0.0.1:6878/ace/getstream?infohash=17610faea647e0e4c27f939a9d123460511e338f
+#EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
+http://127.0.0.1:6878/ace/getstream?infohash=d8957a192294d039102c398609024a7d94f18be2
+#EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
+http://127.0.0.1:6878/ace/getstream?infohash=17d3985309af4a6b9ecbf0f81052175636164787
