@@ -1,13 +1,43 @@
 #EXTM3U url-tvg=https://iptvx.one/EPG,http://epg.one/epg2.xml.gz
 #EXTINF:-1 group-title=sport,pimpletv.ru
+acestream://aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
 acestream://e38b33c56332de27ff25df223cdf488b1ec6051f
 #EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
 acestream://016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
 acestream://350b2044f1c9e87e18d8fbda1bcc456c22cf9296
 #EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
-acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
-#EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
-acestream://aca05dc506242324c1727525d0535ceda24f8dea
-#EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
 acestream://bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+#EXTINF:-1 group-title=sport,pimpletv.ru (reserve)
+acestream://8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:-1 group-title=No-category,GE: Setanta Sports 1 Georgia HD
+acestream://c584dd8c6bb963fa78e6f79d2e3c6a15493f8241
+#EXTINF:-1 group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/29234.png,Setanta Live 2 [RU]
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/29232.png,Setanta Live 1 [RU]
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 group-title=movies group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/5785.png,Матч! Боец [RU]
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 group-title=movies group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/5491.png,Матч! Арена HD [RU]
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 group-title=movies group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/5417.png,Матч! Игра HD [RU]
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/5661.png,Матч! HD
+acestream://2bb81a951f3daa6d0cafad118c289e7640d8c935
+#EXTINF:-1 group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/6541.png,Матч! Премьер HD [RU]
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/5661.png,Матч! ТВ HD [RU]
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/5738.png,МАТЧ! Планета [RU]
+acestream://106c8656fca0ca91a696110467788d202d7111af
+#EXTINF:-1 group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/6749.png,Матч! Страна [RU]
+acestream://ef9c77bd94783448b8edb552109f5f15b2bd82d1
+#EXTINF:-1 group-title=sport group-title=movies tvg-logo=http://c1.torrentstream.info/epg/icons/5596.png,Матч! Футбол 1 ( original ) [RU]
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 group-title=sport group-title=movies tvg-logo=http://c1.torrentstream.info/epg/icons/5691.png,Матч! Футбол 2 ( original ) [RU]
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 group-title=sport group-title=movies tvg-logo=http://c1.torrentstream.info/epg/icons/5626.png,Матч! Футбол 3 ( original ) [RU]
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 group-title=tv group-title=movies group-title=sport tvg-logo=http://c1.torrentstream.info/epg/icons/7026.png,Матч! Премьер
+acestream://9532342728a8c48eeb4a849211bc2d6c6bcf9479
